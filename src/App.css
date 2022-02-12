@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+    background-color: black;
+}
+
+@font-face {
+    font-family: DarkWaters;
+    src: url(DarkWaters.ttf);
+  }
